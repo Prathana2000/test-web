@@ -1,5 +1,4 @@
-import React from "react";
-import { Select, Space } from "antd";
+import { Select} from "antd";
 import { useTranslation } from "react-i18next";
 
 export default function BasicSelect() {

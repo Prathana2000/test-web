@@ -1,6 +1,5 @@
-import React from "react";
 import "./Layout.scss";
-import { Button, Space } from "antd";
+import { Button } from "antd";
 import { useTranslation } from "react-i18next";
 
 function Layout() {
